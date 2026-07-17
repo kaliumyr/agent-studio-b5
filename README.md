@@ -241,6 +241,8 @@ python3 code/b5_memory.py \
 
 **B5 记忆查找结果 `selected_memory.json`**：
 
+![Uploading b2e39c077e3fe17c53c4be7fbc3e7fab.png…]()
+
 ```json
 {
   "status": "success",
