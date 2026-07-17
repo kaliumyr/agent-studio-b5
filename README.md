@@ -241,7 +241,7 @@ python3 code/b5_memory.py \
 
 **B5 记忆查找结果 `selected_memory.json`**：
 
-![Uploading 20260717130938_302_172.png…]()
+![结果](images/20260717130938_302_172.png)
 
 ```json
 {
